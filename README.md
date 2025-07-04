@@ -66,3 +66,10 @@
 > *“Consistency beats intensity.  
 > Keep showing up — even on the days you don't feel like it.”*  
 > — *You, building your future*
+
+---
+---
+
+📄 License
+
+This profile README is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
