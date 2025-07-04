@@ -28,7 +28,6 @@
 📅 2025/11/13 → 2025/12/22 : CCNP by David Bombal
 ```
 📌 **Currently studying:** CCNA  
-📦 Resource: [Jeremy's IT Lab](https://www.youtube.com/watch?v=_8vbDRVDats)  
 ✅ Completed: Network+ (2025/06/24)
 
 ---
