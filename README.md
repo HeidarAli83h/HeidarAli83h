@@ -68,8 +68,33 @@
 > — *You, building your future*
 
 ---
+
 ---
 
-## 📄 LICENCE
+<h2>📄 License</h2>
 
-This profile README is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+<p align="center">
+  All content in this profile — including text, visuals, and structure — is licensed under the
+  <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+    Creative Commons Attribution 4.0 International (CC BY 4.0)
+  </a>.
+</p>
+
+<p align="center">
+  You are free to:
+</p>
+
+<ul align="center">
+  <li>✅ Share — copy and redistribute the material in any medium or format</li>
+  <li>🔄 Adapt — remix, transform, and build upon the material for any purpose, even commercially</li>
+</ul>
+
+<p align="center">
+  Under the following condition:<br/>
+  <strong>🧾 Attribution</strong> — Give proper credit by mentioning the author:
+  <a href="https://github.com/HeidarAli83h">@HeidarAli83h</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License: CC BY 4.0" />
+</p>
