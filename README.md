@@ -4,7 +4,7 @@
 
 🌍 Based in **Mashhad, Iran**  
 🎓 Studying at **Sadjad University of Technology**  
-🎯 Focused on: **CCNA / CCNP, Network Automation**  
+🎯 Focused on: **CCNA / CCNP, Network Automation , Python**  
 🧠 Passionate about learning & building real-world projects
 
 ---
@@ -13,7 +13,7 @@
 
 **Networking:** Cisco (Packet Tracer, GNS3), Wireshark  
 **Front-End:** HTML, CSS, JS, Bootstrap, WordPress  
-**Tools:** Git, GitHub, VS Code  
+**Tools:** Cisco packets tracer, GitHub, VS Code , Jet Brian Kotlin 
 
 ---
 
