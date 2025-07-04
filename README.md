@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm HeidarAli Tahounian</h1>
+<h1 align="center">Hey 👋 I'm HeidarAli Tahouniyan</h1>
 
 <h3 align="center">🚀 Software Engineering Student | Network Enthusiast | Aspiring Cybersecurity Pro</h3>
 
