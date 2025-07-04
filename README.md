@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Software Engineering Student | Network Enthusiast | Aspiring Cybersecurity Pro</h3>
 
 🌍 Based in **Mashhad, Iran**  
-🎓 Studying at **Sajjad University of Technology**  
+🎓 Studying at **Sadjad University of Technology**  
 🎯 Focused on: **CCNA / CCNP, Network Automation**  
 🧠 Passionate about learning & building real-world projects
 
