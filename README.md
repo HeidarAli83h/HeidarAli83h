@@ -4,7 +4,7 @@
 
 🌍 Based in **Mashhad, Iran**  
 🎓 Studying at **Sadjad University of Technology**  
-🎯 Focused on: **CCNA / CCNP, Network Automation , Python**  
+🎯 Focused on: **CCNA / CCNP , Network Automation , Python**  
 🧠 Passionate about learning & building real-world projects
 
 ---
