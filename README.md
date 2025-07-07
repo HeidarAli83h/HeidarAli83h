@@ -11,7 +11,7 @@
 
 ## 🧰 Tech Stack
 
-**Networking:** Cisco (Packet Tracer, GNS3), Wireshark  
+**Networking:** Cisco (Packet Tracer, EVE-NG ),  
 **Front-End:** HTML, CSS, JS, Bootstrap, WordPress  
 **Tools:** Cisco packets tracer, GitHub, VS Code , Jet Brian Kotlin 
 
